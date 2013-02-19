@@ -53,6 +53,12 @@
     <Compile Include="TrackerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Piwik\Piwik.csproj">
+      <Project>{bd00415e-0480-4e68-be75-fd7220480466}</Project>
+      <Name>Piwik</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
