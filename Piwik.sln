@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piwik", "Piwik\Piwik.csproj", "{BD00415E-0480-4E68-BE75-FD7220480466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiwikTest", "PiwikTest\PiwikTest.csproj", "{92A0332C-224A-41C1-BBD9-2CEB09F0A119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{BD00415E-0480-4E68-BE75-FD7220480466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD00415E-0480-4E68-BE75-FD7220480466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD00415E-0480-4E68-BE75-FD7220480466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A0332C-224A-41C1-BBD9-2CEB09F0A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A0332C-224A-41C1-BBD9-2CEB09F0A119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A0332C-224A-41C1-BBD9-2CEB09F0A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A0332C-224A-41C1-BBD9-2CEB09F0A119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
