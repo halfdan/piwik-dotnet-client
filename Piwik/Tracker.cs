@@ -8,5 +8,8 @@ namespace Piwik
 {
     public class Tracker
     {
+        public Tracker(int idSite, String apiUrl)
+        {
+        }
     }
 }
